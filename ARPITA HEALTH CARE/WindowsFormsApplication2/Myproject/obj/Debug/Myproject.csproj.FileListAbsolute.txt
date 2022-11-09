@@ -1,0 +1,17 @@
+F:\WindowsFormsApplication2\Myproject\bin\Debug\Myproject.exe.config
+F:\WindowsFormsApplication2\Myproject\bin\Debug\Myproject.exe
+F:\WindowsFormsApplication2\Myproject\bin\Debug\Myproject.pdb
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.Form1.resources
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.Form2.resources
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.Properties.Resources.resources
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.exe
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.pdb
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.Form3.resources
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.Form4.resources
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.Form5.resources
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.Form6.resources
+F:\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.csprojResolveAssemblyReference.cache
+F:\PROJECT\WindowsFormsApplication2\Myproject\bin\Debug\Myproject.exe.config
+F:\PROJECT\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.exe
+F:\PROJECT\WindowsFormsApplication2\Myproject\obj\Debug\Myproject.pdb
